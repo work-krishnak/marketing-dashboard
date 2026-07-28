@@ -1,0 +1,31 @@
+date,campaign,channel,spend,impressions,clicks,conversions
+2026-01-05,Spring Launch,Google Ads,1200,85000,2100,95
+2026-01-05,Spring Launch,Facebook,900,72000,1800,70
+2026-01-05,Brand Awareness,Instagram,600,60000,1200,40
+2026-01-12,Spring Launch,Google Ads,1350,91000,2300,105
+2026-01-12,Spring Launch,Facebook,950,75000,1900,75
+2026-01-12,Brand Awareness,Instagram,650,63000,1300,45
+2026-01-19,Spring Launch,Google Ads,1400,93000,2450,110
+2026-01-19,Spring Launch,Facebook,1000,78000,2000,80
+2026-01-19,Brand Awareness,Instagram,700,65000,1400,48
+2026-01-26,Spring Launch,Google Ads,1300,89000,2250,100
+2026-01-26,Spring Launch,Facebook,920,74000,1850,72
+2026-01-26,Brand Awareness,Instagram,680,64000,1350,46
+2026-02-02,Product Relaunch,Google Ads,1600,105000,2800,140
+2026-02-02,Product Relaunch,Facebook,1100,88000,2200,95
+2026-02-02,Brand Awareness,Instagram,720,67000,1450,50
+2026-02-09,Product Relaunch,Google Ads,1750,112000,3000,155
+2026-02-09,Product Relaunch,Facebook,1200,92000,2350,102
+2026-02-09,Brand Awareness,Instagram,750,69000,1500,52
+2026-02-16,Product Relaunch,Google Ads,1820,116000,3150,162
+2026-02-16,Product Relaunch,Facebook,1250,95000,2450,108
+2026-02-16,Brand Awareness,Instagram,780,71000,1550,55
+2026-02-23,Product Relaunch,Google Ads,1900,120000,3300,170
+2026-02-23,Product Relaunch,Facebook,1300,98000,2550,112
+2026-02-23,Brand Awareness,Instagram,800,73000,1600,58
+2026-03-02,Summer Preview,Google Ads,2100,130000,3600,185
+2026-03-02,Summer Preview,Facebook,1450,105000,2750,120
+2026-03-02,Brand Awareness,Instagram,850,76000,1700,62
+2026-03-09,Summer Preview,Google Ads,2250,138000,3850,198
+2026-03-09,Summer Preview,Facebook,1550,110000,2900,128
+2026-03-09,Brand Awareness,Instagram,880,78000,1750,64
